@@ -14,6 +14,6 @@ Overflowing garbage bins have been a big cause of concern for residents in devel
 Who did what?
 Smitha Muthuvenkataramani and Aruna Gangadurai : Map Api
 Sharat Hegde and Mandeep Kaur : 1. Alert Services (Mail + SMS)
-								2. Database Designing
+				2. Database Designing
 Sharat Hegde : Hardware Setup
 Mandeep Kaur : Front End
